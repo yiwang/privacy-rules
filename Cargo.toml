@@ -1,0 +1,6 @@
+[package]
+name = "privacy-rules"
+version = "0.1.0"
+authors = ["Yi Wang <e@yi-wang.me>"]
+
+[dependencies]
